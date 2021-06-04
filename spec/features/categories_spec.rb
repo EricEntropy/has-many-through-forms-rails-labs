@@ -1,5 +1,4 @@
 require 'rails_helper'
-
 describe 'categories', type: 'feature' do
 
   before do

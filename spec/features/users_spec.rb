@@ -1,5 +1,6 @@
 require 'rails_helper'
 
+system('clear')
 describe 'users', type: 'feature' do
 
   before do
